@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmzatms
 - 👀 I’m interested in machine learning, human computer interaction and other things.
-- 🌱 I’m currently learning how to thrive in the microsfot universe
+- 🌱 I’m currently learning how to thrive in the microsoft universe
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me bjornremseth@microsoft.com
 
